@@ -1,0 +1,12 @@
+body {
+  background-color: lightgreen;
+  padding-top: 70px;
+}
+
+.btn-space-20 {
+  margin-top: 20px;
+}
+
+.btn-space-30 {
+  margin-top: 30px;
+}
